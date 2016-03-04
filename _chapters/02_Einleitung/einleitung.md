@@ -1,4 +1,4 @@
 ---
-title: "Einleitung"
+title: "Inleiding"
 number: "2"
 ---

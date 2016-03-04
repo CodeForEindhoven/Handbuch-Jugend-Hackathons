@@ -1,5 +1,5 @@
 ---
-title: "Jugendspezifische Anpassungen des Formats"
+title: "Aanpassingen aan het format, specifiek voor jeugd"
 number: "2.6"
 ---
     
